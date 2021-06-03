@@ -1,0 +1,11 @@
+{
+  "name": "listofapi",
+  "version": "1.0.0",
+  "description": "This is a project displaying the list of apis in one response",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Himalay Shankar",
+  "license": "ISC"
+}
